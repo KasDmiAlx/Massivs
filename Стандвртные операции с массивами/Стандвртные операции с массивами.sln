@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стандвртные операции с массивами", "Стандвртные операции с массивами\Стандвртные операции с массивами.csproj", "{10518D03-797F-440E-BAE2-453FE02841EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Алгоритм сортировки через минимальный элемент", "Алгоритм сортировки через минимальный элемент\Алгоритм сортировки через минимальный элемент.csproj", "{D1705022-DB64-4244-B437-E8EA0C1D5A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10518D03-797F-440E-BAE2-453FE02841EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10518D03-797F-440E-BAE2-453FE02841EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10518D03-797F-440E-BAE2-453FE02841EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10518D03-797F-440E-BAE2-453FE02841EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1705022-DB64-4244-B437-E8EA0C1D5A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1705022-DB64-4244-B437-E8EA0C1D5A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1705022-DB64-4244-B437-E8EA0C1D5A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1705022-DB64-4244-B437-E8EA0C1D5A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCED1F14-7DB8-46FD-9C33-1904B8020BD5}
+	EndGlobalSection
+EndGlobal
